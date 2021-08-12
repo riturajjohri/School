@@ -1,0 +1,12 @@
+G:\teknikforce\Repo\Dot Net Repo\SchoolApi\DTO\bin\Debug\net5.0\DTO.deps.json
+G:\teknikforce\Repo\Dot Net Repo\SchoolApi\DTO\bin\Debug\net5.0\DTO.dll
+G:\teknikforce\Repo\Dot Net Repo\SchoolApi\DTO\bin\Debug\net5.0\ref\DTO.dll
+G:\teknikforce\Repo\Dot Net Repo\SchoolApi\DTO\bin\Debug\net5.0\DTO.pdb
+G:\teknikforce\Repo\Dot Net Repo\SchoolApi\DTO\obj\Debug\net5.0\DTO.csproj.AssemblyReference.cache
+G:\teknikforce\Repo\Dot Net Repo\SchoolApi\DTO\obj\Debug\net5.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+G:\teknikforce\Repo\Dot Net Repo\SchoolApi\DTO\obj\Debug\net5.0\DTO.AssemblyInfoInputs.cache
+G:\teknikforce\Repo\Dot Net Repo\SchoolApi\DTO\obj\Debug\net5.0\DTO.AssemblyInfo.cs
+G:\teknikforce\Repo\Dot Net Repo\SchoolApi\DTO\obj\Debug\net5.0\DTO.csproj.CoreCompileInputs.cache
+G:\teknikforce\Repo\Dot Net Repo\SchoolApi\DTO\obj\Debug\net5.0\DTO.dll
+G:\teknikforce\Repo\Dot Net Repo\SchoolApi\DTO\obj\Debug\net5.0\ref\DTO.dll
+G:\teknikforce\Repo\Dot Net Repo\SchoolApi\DTO\obj\Debug\net5.0\DTO.pdb
